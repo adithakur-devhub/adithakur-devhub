@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Thakur
 
-<!--
-**adithakur-devhub/adithakur-devhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ ECE Student | Future VLSI Engineer | Web & Electronics Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Electronics & Communication Engineering Student
+- 💻 Learning HTML, CSS, JavaScript & GitHub
+- ⚡ Interested in VLSI, Embedded Systems & Frontend Development
+- 🌱 Currently building electronics + web based projects
+- 🎯 Goal: Become a VLSI Engineer at a top tech company
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### ⚡ Portfolio Website
+Personal portfolio website showcasing skills and projects.
+
+### 📊 CGPA Calculator
+Web app to calculate SGPA and CGPA using grades and credits.
+
+### 🎨 Electronics Toolkit Pro
+Interactive resistor color code calculator with visualization.
+
+---
+
+## 📈 Current Learning
+
+- Digital Electronics
+- Embedded Systems
+- Frontend Development
+- Git & GitHub
+- VLSI Basics
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/adithakur-devhub
+- LinkedIn: Coming Soon
+
+---
+
+⭐ Building projects consistently and learning in public.
